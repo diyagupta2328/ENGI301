@@ -1,2 +1,2 @@
 # ENGI301
-Repository for this class!
+Repository for ENGI301 Coursework!
