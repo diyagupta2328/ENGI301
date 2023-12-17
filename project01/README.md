@@ -10,7 +10,7 @@ All the code to run this program should is in the folder sign_talk_project_01. T
       - sudo apt-get install python3-pil
       - sudo apt-get install python3-numpy
       - sudo apt-get install libopenjp2-7
-4. Run final1.py
+4. Run `final1.py`
 
 ## Code Files
 The main files that are called within the system are:
