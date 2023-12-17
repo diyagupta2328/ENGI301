@@ -1,5 +1,5 @@
 # SignTalk Project
-All the code to run this program should is in the folder sign_talk_project_01. The code should be downloaded and implemented in the PocketBeagle Cloud9 program. All the hardware and hardware implementation can be found in the hackster.io page: 
+All the code to run this program should is in the folder sign_talk_project_01. The code should be downloaded and implemented in the PocketBeagle Cloud9 program. All the hardware and hardware implementation can be found in the hackster.io page: https://www.hackster.io/dg73/signtalk-a-sign-language-translator-d86057 
 
 ## Steps to Setup and Run
 1. Wire components as per the block diagram and images on the Hackster page. 
